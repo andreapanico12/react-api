@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Bloglist from './assets/components/Bloglist'
+import Bloglist from './components/Bloglist'
 const App = () => {
   
   return(
